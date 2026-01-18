@@ -49,10 +49,22 @@ To run the application, execute the `main.py` script:
 python src/main.py
 ```
 
+<<<<<<< HEAD
 You should see the following output:
 
 ```
 The result is: 8
+=======
+The application will prompt you to enter two numbers.
+
+### Example Usage
+
+```
+Enter the first number: 10
+Enter the second number: 5
+The sum is: 15.0
+The product is: 50.0
+>>>>>>> feat/initial-project-structure-797294041455331580
 ```
 
 ## Running the Tests
